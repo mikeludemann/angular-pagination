@@ -1,2 +1,2 @@
 # angular-pagination
-n Angular component library for different pagination
+An Angular component library for different pagination
